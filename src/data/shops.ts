@@ -152,7 +152,7 @@ export const shops: Shop[] = [
   },
   {
     id: 15,
-    name: 'REEN CHILLI',
+    name: 'GREEN CHILLI',
     rating: 3.5,
     lat: 31.25776761,
     long: 75.70821582,
